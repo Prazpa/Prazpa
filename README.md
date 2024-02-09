@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Looking for Front-end developer jobs
 ------------------------------------
 
-* 🌍  I'm based in Bangkok,Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [prapakornpm2001@gmail.com](mailto:prapakornpm2001@gmail.com)
 
 ### Skills
